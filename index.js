@@ -1,3 +1,3 @@
-Console.error("This is an error");
-Console.log("Testing");
-Console.warn("Warning");
+console.error("This is an error");
+console.log("Testing");
+console.warn("Warning");
